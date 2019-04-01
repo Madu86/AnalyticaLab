@@ -1,0 +1,24 @@
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\bin\Debug\Settings.xml
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\bin\Debug\Analytica Lab.exe.config
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\bin\Debug\Analytica Lab.exe
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\bin\Debug\Analytica Lab.pdb
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\bin\Debug\Analytica Lab Administration Wizard.exe
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\bin\Debug\Analytica Lab Administration Wizard.pdb
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Analytica_Lab.frmAbout.resources
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Analytica_Lab.frmMain.resources
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Analytica_Lab.frmCustomSample.resources
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Analytica_Lab.frmOptions.resources
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Analytica_Lab.frmSampling.resources
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Analytica_Lab.frmSplash.resources
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Analytica_Lab.frmWelcome.resources
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Analytica_Lab.Properties.Resources.resources
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Analytica_Lab.csproj.GenerateResource.Cache
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Analytica Lab.exe
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Analytica Lab.pdb
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Analytica_Lab.csprojResolveAssemblyReference.cache
+C:\Users\Madushanka\Documents\Visual Studio 2010\Projects\Analytica Lab\Analytica Lab\bin\Debug\BSE.Windows.Forms.dll
+C:\Users\Madushanka\Documents\Visual Studio 2010\Projects\Analytica Lab\Analytica Lab\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\Madushanka\Documents\Visual Studio 2010\Projects\Analytica Lab\Analytica Lab\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Madushanka\Documents\Visual Studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Interop.AcroPDFLib.dll
+C:\Users\Madushanka\Documents\Visual Studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\Madushanka\Documents\Visual Studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Analytica_Lab.csproj.ResolveComReference.cache

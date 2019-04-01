@@ -1,0 +1,218 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{B5A2031C-0B7E-4A58-AA5C-7AE0378785D1}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Analytica_Lab_Administration_Wizard</RootNamespace>
+    <AssemblyName>Analytica Lab Administration Wizard</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>
+    </TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Analytica_LabDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Analytica_LabDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="DB_Operator.cs" />
+    <Compile Include="editChemicalCompound.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="editChemicalCompound.designer.cs">
+      <DependentUpon>editChemicalCompound.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmAddChemicalCompound.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmAddChemicalCompound.designer.cs">
+      <DependentUpon>frmAddChemicalCompound.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBackUpDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBackUpDB.Designer.cs">
+      <DependentUpon>frmBackUpDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDBWizard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDBWizard.designer.cs">
+      <DependentUpon>frmDBWizard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmOperations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmOperations.designer.cs">
+      <DependentUpon>frmOperations.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmReagentWizard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmReagentWizard.designer.cs">
+      <DependentUpon>frmReagentWizard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmRestoreDB.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmRestoreDB.Designer.cs">
+      <DependentUpon>frmRestoreDB.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmViewChemical_CompoundsDT.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmViewChemical_CompoundsDT.designer.cs">
+      <DependentUpon>frmViewChemical_CompoundsDT.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="editChemicalCompound.resx">
+      <DependentUpon>editChemicalCompound.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmAddChemicalCompound.resx">
+      <DependentUpon>frmAddChemicalCompound.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBackUpDB.resx">
+      <DependentUpon>frmBackUpDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDBWizard.resx">
+      <DependentUpon>frmDBWizard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmOperations.resx">
+      <DependentUpon>frmOperations.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmReagentWizard.resx">
+      <DependentUpon>frmReagentWizard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmRestoreDB.resx">
+      <DependentUpon>frmRestoreDB.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmViewChemical_CompoundsDT.resx">
+      <DependentUpon>frmViewChemical_CompoundsDT.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Analytica_LabDataSet.xsc">
+      <DependentUpon>Analytica_LabDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Analytica_LabDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>Analytica_LabDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Analytica_LabDataSet.xss">
+      <DependentUpon>Analytica_LabDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="app.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0,Profile=Client">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 Client Profile %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Sql.Server.Express.10.0">
+      <Visible>False</Visible>
+      <ProductName>SQL Server 2008 Express</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

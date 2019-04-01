@@ -1,0 +1,15 @@
+c:\users\madushanka\documents\visual studio 2010\Projects\Analytica Lab Administration Wizard\Analytica Lab Administration Wizard\obj\x86\Debug\Analytica_Lab_Administration_Wizard.editChemicalCompound.resources
+c:\users\madushanka\documents\visual studio 2010\Projects\Analytica Lab Administration Wizard\Analytica Lab Administration Wizard\obj\x86\Debug\Analytica_Lab_Administration_Wizard.frmAddChemicalCompound.resources
+c:\users\madushanka\documents\visual studio 2010\Projects\Analytica Lab Administration Wizard\Analytica Lab Administration Wizard\obj\x86\Debug\Analytica_Lab_Administration_Wizard.frmDBWizard.resources
+c:\users\madushanka\documents\visual studio 2010\Projects\Analytica Lab Administration Wizard\Analytica Lab Administration Wizard\obj\x86\Debug\Analytica_Lab_Administration_Wizard.frmOperations.resources
+c:\users\madushanka\documents\visual studio 2010\Projects\Analytica Lab Administration Wizard\Analytica Lab Administration Wizard\obj\x86\Debug\Analytica_Lab_Administration_Wizard.frmReagentWizard.resources
+c:\users\madushanka\documents\visual studio 2010\Projects\Analytica Lab Administration Wizard\Analytica Lab Administration Wizard\obj\x86\Debug\Analytica_Lab_Administration_Wizard.frmViewChemical_CompoundsDT.resources
+c:\users\madushanka\documents\visual studio 2010\Projects\Analytica Lab Administration Wizard\Analytica Lab Administration Wizard\obj\x86\Debug\Analytica_Lab_Administration_Wizard.Properties.Resources.resources
+c:\users\madushanka\documents\visual studio 2010\Projects\Analytica Lab Administration Wizard\Analytica Lab Administration Wizard\obj\x86\Debug\Analytica Lab Administration Wizard.csproj.GenerateResource.Cache
+c:\users\madushanka\documents\visual studio 2010\Projects\Analytica Lab Administration Wizard\Analytica Lab Administration Wizard\bin\Debug\Analytica Lab Administration Wizard.exe.config
+c:\users\madushanka\documents\visual studio 2010\Projects\Analytica Lab Administration Wizard\Analytica Lab Administration Wizard\bin\Debug\Analytica Lab Administration Wizard.exe
+c:\users\madushanka\documents\visual studio 2010\Projects\Analytica Lab Administration Wizard\Analytica Lab Administration Wizard\bin\Debug\Analytica Lab Administration Wizard.pdb
+c:\users\madushanka\documents\visual studio 2010\Projects\Analytica Lab Administration Wizard\Analytica Lab Administration Wizard\obj\x86\Debug\Analytica Lab Administration Wizard.exe
+c:\users\madushanka\documents\visual studio 2010\Projects\Analytica Lab Administration Wizard\Analytica Lab Administration Wizard\obj\x86\Debug\Analytica Lab Administration Wizard.pdb
+c:\users\madushanka\documents\visual studio 2010\Projects\Analytica Lab Administration Wizard\Analytica Lab Administration Wizard\obj\x86\Debug\Analytica_Lab_Administration_Wizard.frmBackUpDB.resources
+c:\users\madushanka\documents\visual studio 2010\Projects\Analytica Lab Administration Wizard\Analytica Lab Administration Wizard\obj\x86\Debug\Analytica_Lab_Administration_Wizard.frmRestoreDB.resources

@@ -1,0 +1,18 @@
+c:\users\madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\bin\Debug\Analytica Lab.exe
+c:\users\madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\bin\Debug\Analytica Lab.pdb
+c:\users\madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Analytica_Lab.frmMain.resources
+c:\users\madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Analytica_Lab.Properties.Resources.resources
+c:\users\madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Analytica Lab.csproj.GenerateResource.Cache
+c:\users\madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Analytica Lab.exe
+c:\users\madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Analytica Lab.pdb
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Analytica Lab.csprojResolveAssemblyReference.cache
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Analytica_Lab.frmWelcome.resources
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Analytica_Lab.frmSampling.resources
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\bin\Debug\Analytica Lab.exe.config
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Analytica_Lab.frmCustomSample.resources
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Analytica_Lab.frmSplash.resources
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Analytica_Lab.frmOptions.resources
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\bin\Debug\Settings.xml
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\obj\x86\Debug\Analytica_Lab.frmAbout.resources
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\bin\Debug\Analytica Lab Administration Wizard.exe
+C:\Users\Madushanka\documents\visual studio 2010\Projects\Analytica Lab\Analytica Lab\bin\Debug\Analytica Lab Administration Wizard.pdb
